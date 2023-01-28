@@ -1,5 +1,5 @@
 <script>
-	import { dialogs } from '../narration/dialogs.json';
+	import { dialogs } from '../dialogs.json';
 	/**
 	 * @type {number}
 	 */

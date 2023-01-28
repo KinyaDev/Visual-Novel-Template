@@ -1,0 +1,20 @@
+{
+	"dialogs": [
+		{ "name": "Jasmine", "text": "Hey, what's up?", "scenename": "jasmine_greeting.jpg" },
+		{
+			"name": "Zach",
+			"text": "Not much, just hanging out. How about you?",
+			"scenename": "zach_response.jpg"
+		},
+		{
+			"name": "Jasmine",
+			"text": "I'm good, just finished up some work for school. Do you have any plans for the weekend?",
+			"scenename": "jasmine_question.jpg"
+		},
+		{
+			"name": "Zach",
+			"text": "Just going to relax and catch up on some TV shows.",
+			"scenename": "zach_relaxing.jpg"
+		}
+	]
+}
