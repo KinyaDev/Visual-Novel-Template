@@ -1,6 +1,6 @@
 {
 	"dialogs": [
-		{ "name": "Kinya", "text": "Comment vas-tu ?", "scenename": "1.jpg" },
-		{ "name": "Moi", "text": "Bien!", "scenename": "1.jpg" }
+		{ "name": "Kinya", "text": "Comment vas-tu ?", "scenename": "0.jpg" },
+		{ "name": "Moi", "text": "Bien!", "scenename": "0.jpg" }
 	]
 }
